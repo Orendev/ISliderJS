@@ -1,0 +1,22 @@
+{
+    "name": "sliderJS",
+    "version": "1.0.1",
+    "description": "slider-js-es6",
+    "main": "js/main.js",
+    "scripts": {
+        "build": "webpack"
+    },
+    "author": {
+        "name": "Abai Adelshin",
+        "email": "abai666@gmail.com",
+        "url": "orendev.com"
+    },
+    "license": "MIT",
+    "repository": "",
+    "devDependencies": {
+        "babel-core": "^6.24.1",
+        "babel-loader": "^7.0.0",
+        "babel-preset-env": "^1.4.0",
+        "webpack": "^2.4.1"
+    }
+}
